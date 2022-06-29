@@ -7,7 +7,7 @@ This could be because of popularity of listeners and Scientists from USA that co
 
 Since the podcast is shared on my platform, Sarah Nyakeri on Linkedin, which half of the followers come from Kenya, then that could explain the popularity among kenyans.
 
-##About The Vulnerable Scientist Podcast
+## About The Vulnerable Scientist Podcast
 
 This is a space for scientists to tell their personal stories on hwo they pursued a career in science. The main topic is the highs and lows experience with the main theme being autheniticty and honesty
 
