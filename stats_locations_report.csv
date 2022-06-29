@@ -1,0 +1,421 @@
+City,State,Country,Continent,Play Count
+Los Angeles,California,United States,North America,2
+,,United States,North America,83
+Philadelphia,Pennsylvania,United States,North America,5
+Denver,Colorado,United States,North America,6
+Omaha,Nebraska,United States,North America,1
+Berkeley,California,United States,North America,1
+Sydney,New South Wales,Australia,Australia,13
+Liverpool,Liverpool,United Kingdom,Europe,7
+Lansing,Michigan,United States,North America,2
+Sacramento,California,United States,North America,1
+Dallas,Texas,United States,North America,1
+New York,New York,United States,North America,8
+Riverside,California,United States,North America,5
+San Jose,California,United States,North America,2
+San Diego,California,United States,North America,12
+Las Vegas,Nevada,United States,North America,1
+Chicago,Illinois,United States,North America,27
+Montréal,Québec,Canada,North America,5
+Edmonton,Alberta,Canada,North America,2
+Toronto,Ontario,Canada,North America,6
+Kansas City,Missouri,United States,North America,1
+Melbourne,Victoria,Australia,Australia,1
+Indianapolis,Indiana,United States,North America,1
+Washington,District of Columbia,United States,North America,19
+Boston,Massachusetts,United States,North America,3
+Santa Clara,California,United States,North America,1
+San Francisco,California,United States,North America,3
+Atlanta,Georgia,United States,North America,3
+Manchester,Manchester,United Kingdom,Europe,1
+Jersey City,New Jersey,United States,North America,1
+Fort Worth,Texas,United States,North America,2
+Spring,Texas,United States,North America,2
+College Station,Texas,United States,North America,2
+Phoenix,Arizona,United States,North America,3
+Vancouver,British Columbia,Canada,North America,1
+Houston,Texas,United States,North America,2
+New Haven,Connecticut,United States,North America,1
+Miami,Florida,United States,North America,1
+Plano,Texas,United States,North America,1
+Glasgow,Glasgow City,United Kingdom,Europe,2
+Baltimore,Maryland,United States,North America,1
+Austin,Texas,United States,North America,3
+Ashburn,Virginia,United States,North America,159
+Urbana,Illinois,United States,North America,6
+Decatur,Georgia,United States,North America,8
+Raleigh,North Carolina,United States,North America,2
+Oklahoma City,Oklahoma,United States,North America,1
+Seattle,Washington,United States,North America,17
+Davis,California,United States,North America,5
+Southampton,Southampton,United Kingdom,Europe,2
+Roseville,California,United States,North America,1
+Monterrey,Nuevo León,Mexico,North America,1
+La Jolla,California,United States,North America,1
+Chelmsford,Essex,United Kingdom,Europe,1
+Chino,California,United States,North America,1
+Fort Collins,Colorado,United States,North America,10
+Greensboro,North Carolina,United States,North America,7
+Mountain View,California,United States,North America,2
+Walnut Creek,California,United States,North America,2
+Salford,Salford,United Kingdom,Europe,1
+Columbia,Missouri,United States,North America,1
+Norwich,Norfolk,United Kingdom,Europe,7
+Pittsburgh,Pennsylvania,United States,North America,1
+Memphis,Tennessee,United States,North America,5
+Brisbane,Queensland,Australia,Australia,6
+Fargo,North Dakota,United States,North America,1
+Harrisburg,Pennsylvania,United States,North America,2
+Gaithersburg,Maryland,United States,North America,1
+West Chester,Pennsylvania,United States,North America,2
+Nashville,Tennessee,United States,North America,1
+Pretoria,Gauteng,South Africa,Africa,9
+Hamilton,Ontario,Canada,North America,2
+Cary,North Carolina,United States,North America,1
+Burlington,North Carolina,United States,North America,1
+Silver Spring,Maryland,United States,North America,1
+Hayward,California,United States,North America,1
+Lagos,Lagos,Nigeria,Africa,6
+Des Moines,Iowa,United States,North America,2
+Birmingham,Alabama,United States,North America,1
+Auckland,Auckland,New Zealand,Australia,2
+Lubbock,Texas,United States,North America,1
+Bremen,Bremen,Germany,Europe,1
+Sheffield,Sheffield,United Kingdom,Europe,1
+Cambridge,Cambridgeshire,United Kingdom,Europe,1
+Luton,Luton,United Kingdom,Europe,1
+Lafayette,Indiana,United States,North America,1
+Aliso Viejo,California,United States,North America,1
+Dubai,Dubai,United Arab Emirates,Asia,4
+Rockville,Maryland,United States,North America,6
+Cardiff,Cardiff,United Kingdom,Europe,1
+Worthing,West Sussex,United Kingdom,Europe,11
+Pekin,Illinois,United States,North America,4
+Palmyra,Pennsylvania,United States,North America,3
+Morgantown,West Virginia,United States,North America,1
+Germantown,Tennessee,United States,North America,1
+Madrid,Madrid,Spain,Europe,3
+Woking,Surrey,United Kingdom,Europe,7
+Fort Wayne,Indiana,United States,North America,1
+New Orleans,Louisiana,United States,North America,1
+Mumbai,Maharashtra,India,Asia,3
+Dartmouth,Nova Scotia,Canada,North America,1
+Johannesburg,Gauteng,South Africa,Africa,22
+Dundee,Dundee City,United Kingdom,Europe,1
+Oran,Oran,Algeria,Africa,1
+West Des Moines,Iowa,United States,North America,33
+Irvine,California,United States,North America,1
+Coquitlam,British Columbia,Canada,North America,1
+Oxford,Oxfordshire,United Kingdom,Europe,5
+Perth,Western Australia,Australia,Australia,21
+Gurgaon,Haryana,India,Asia,1
+Christchurch,Canterbury,New Zealand,Australia,1
+Urbandale,Iowa,United States,North America,17
+Boardman,Oregon,United States,North America,3
+Kirkland,Washington,United States,North America,1
+Pomona,California,United States,North America,1
+Bethesda,Maryland,United States,North America,5
+Champaign,Illinois,United States,North America,4
+Lexington,Kentucky,United States,North America,1
+Clifton,New Jersey,United States,North America,2
+Mobile,Alabama,United States,North America,1
+Encinitas,California,United States,North America,1
+Stony Brook,New York,United States,North America,1
+Charleston,South Carolina,United States,North America,2
+North Adams,Massachusetts,United States,North America,1
+Arcadia,California,United States,North America,1
+Apex,North Carolina,United States,North America,6
+Council Bluffs,Iowa,United States,North America,1
+Somerset,New Jersey,United States,North America,1
+Tallahassee,Florida,United States,North America,1
+Ithaca,New York,United States,North America,1
+Zurich,Zürich,Switzerland,Europe,2
+San Marcos,California,United States,North America,2
+Walled Lake,Michigan,United States,North America,1
+Cape Town,Western Cape,South Africa,Africa,47
+Budapest,Budapest,Hungary,Europe,1
+Delhi,Ontario,Canada,North America,1
+Charleston,West Virginia,United States,North America,1
+Rolla,Missouri,United States,North America,1
+Randburg,Gauteng,South Africa,Africa,5
+Reading,Reading,United Kingdom,Europe,1
+Kingston Upon Thames,Kingston upon Thames,United Kingdom,Europe,2
+Islamabad,Islamabad,Pakistan,Asia,2
+Chennai,Tamil Nadu,India,Asia,7
+Pune,Maharashtra,India,Asia,5
+Porto,Porto,Portugal,Europe,3
+Walsall,Walsall,United Kingdom,Europe,1
+Ahmedabad,Gujarat,India,Asia,1
+Slough,Slough,United Kingdom,Europe,1
+Durban,KwaZulu-Natal,South Africa,Africa,6
+Stellenbosch,Western Cape,South Africa,Africa,6
+Heidelberg,Baden-Württemberg,Germany,Europe,6
+Groningen,Groningen,Netherlands,Europe,1
+Mitcham,Merton,United Kingdom,Europe,1
+Centurion,Gauteng,South Africa,Africa,2
+Dorking,Surrey,United Kingdom,Europe,1
+Potsdam,Brandenburg,Germany,Europe,6
+Bern,Bern,Switzerland,Europe,1
+Ambler,Pennsylvania,United States,North America,1
+Brookline,Massachusetts,United States,North America,1
+Mannheim,Baden-Württemberg,Germany,Europe,4
+Ilford,Redbridge,United Kingdom,Europe,2
+Southwark,Southwark,United Kingdom,Europe,1
+Pietermaritzburg,KwaZulu-Natal,South Africa,Africa,2
+Huntingdon,Cambridgeshire,United Kingdom,Europe,7
+Ames,Iowa,United States,North America,2
+Hummelstown,Pennsylvania,United States,North America,3
+Freiburg Im Breisgau,Baden-Württemberg,Germany,Europe,4
+Kochi,Kerala,India,Asia,2
+Andover,Massachusetts,United States,North America,1
+Worcester Park,Sutton,United Kingdom,Europe,19
+Coimbatore,Tamil Nadu,India,Asia,1
+Kennett Square,Pennsylvania,United States,North America,1
+Wedel,Schleswig-Holstein,Germany,Europe,2
+Kolkata,West Bengal,India,Asia,4
+Jaipur,Rajasthan,India,Asia,6
+Wantage,Oxfordshire,United Kingdom,Europe,1
+Hershey,Pennsylvania,United States,North America,15
+Midrand,Gauteng,South Africa,Africa,1
+Clonee,Meath,Ireland,Europe,2
+Thatcham,West Berkshire,United Kingdom,Europe,1
+Vernal,Utah,United States,North America,1
+Wageningen,Gelderland,Netherlands,Europe,8
+Fukuoka,Fukuoka,Japan,Asia,2
+Thohoyandou,Limpopo,South Africa,Africa,2
+Dakar,Dakar,Senegal,Africa,9
+Townsville,Queensland,Australia,Australia,2
+Gangtok,Sikkim,India,Asia,1
+Lomé,Maritime,Togo,Africa,1
+Chandigarh,Chandigarh,India,Asia,12
+Clayton,Victoria,Australia,Australia,1
+Jalandhar,Punjab,India,Asia,9
+Krugersdorp,Gauteng,South Africa,Africa,1
+Noida,Uttar Pradesh,India,Asia,1
+Germiston,Gauteng,South Africa,Africa,1
+St Louis,Missouri,United States,North America,3
+Ghaziabad,Uttar Pradesh,India,Asia,1
+Rotorua,Bay of Plenty,New Zealand,Australia,1
+Kigali,Kigali,Rwanda,Africa,2
+Rochford,Essex,United Kingdom,Europe,1
+Tappahannock,Virginia,United States,North America,1
+East London,Eastern Cape,South Africa,Africa,1
+Nagpur,Maharashtra,India,Asia,1
+Indore,Madhya Pradesh,India,Asia,1
+Lucknow,Uttar Pradesh,India,Asia,1
+Bhopal,Madhya Pradesh,India,Asia,1
+Kottayam,Kerala,India,Asia,1
+Ludhiana,Punjab,India,Asia,17
+Mohali,Punjab,India,Asia,12
+Hackney,Hackney,United Kingdom,Europe,2
+Homburg,Saarland,Germany,Europe,2
+Islington,Islington,United Kingdom,Europe,2
+Douala,Littoral,Cameroon,Africa,1
+Herrenberg,Baden-Württemberg,Germany,Europe,1
+Patna,Bihar,India,Asia,2
+,,South Korea,Asia,2
+,,Germany,Europe,5
+,,Bangladesh,Asia,1
+,,United Kingdom,Europe,4
+,,Saudi Arabia,Asia,2
+,,Cameroon,Africa,6
+,,Ethiopia,Africa,1
+,,South Africa,Africa,6
+,,Netherlands,Europe,1
+,,Australia,Australia,4
+,,Algeria,Africa,1
+Singapore,,Singapore,Asia,1
+,North Carolina,United States,North America,7
+,,France,Europe,3
+,,India,Asia,13
+,South Carolina,United States,North America,1
+,New South Wales,Australia,Australia,1
+,,Zambia,Africa,1
+,,Kenya,Africa,169
+,,Nigeria,Africa,1
+,Western Australia,Australia,Australia,1
+,,Senegal,Africa,2
+Sagar,Madhya Pradesh,India,Asia,2
+,,Zimbabwe,Africa,5
+,,Tanzania,Africa,1
+,,Gambia,Africa,8
+,,Mauritania,Africa,1
+,,Sudan,Africa,1
+,,Mozambique,Africa,1
+Okayama,Okayama,Japan,Asia,1
+Ljubljana,Ljubljana,Slovenia,Europe,1
+,,Mauritius,Africa,2
+,,Réunion,Africa,2
+,,Mali,Africa,1
+Rohtak,Haryana,India,Asia,1
+Jabalpur,Madhya Pradesh,India,Asia,4
+Jurong West,,Singapore,Asia,1
+Imphal,Manipur,India,Asia,1
+,Iowa,United States,North America,4
+Golders Green,Barnet,United Kingdom,Europe,2
+Buckfastleigh,Devon,United Kingdom,Europe,1
+Bengaluru,Karnataka,India,Asia,12
+Meerut,Uttar Pradesh,India,Asia,1
+Manson,Washington,United States,North America,4
+,KwaZulu-Natal,South Africa,Africa,2
+Shimla,Himachal Pradesh,India,Asia,3
+Fulham,Hammersmith and Fulham,United Kingdom,Europe,1
+Raipur,Chhattisgarh,India,Asia,1
+Emmendingen,Baden-Wurttemberg,Germany,Europe,1
+Dodoma,Dodoma,Tanzania,Africa,1
+Solan,Himachal Pradesh,India,Asia,1
+Karnal,Haryana,India,Asia,3
+Kharar,Punjab,India,Asia,2
+Rajpura,Punjab,India,Asia,6
+Amritsar,Punjab,India,Asia,3
+Sonipat,Haryana,India,Asia,1
+Grahamstown,Eastern Cape,South Africa,Africa,12
+Schriesheim,Baden-Wurttemberg,Germany,Europe,1
+Ambala,Haryana,India,Asia,4
+Sirsa,Haryana,India,Asia,4
+Effingham,Surrey,United Kingdom,Europe,4
+Panipat,Haryana,India,Asia,9
+Saint-cuthbert,Quebec,Canada,North America,1
+Luxembourg,Luxembourg,Luxembourg,Europe,1
+Harlesden,Brent,United Kingdom,Europe,1
+Walkden,Salford,United Kingdom,Europe,1
+South Norwood,Croydon,United Kingdom,Europe,1
+Bemmel,Gelderland,Netherlands,Europe,4
+Dortmund,North Rhine-Westphalia,Germany,Europe,4
+London,England,United Kingdom,Europe,25
+Munich,Bavaria,Germany,Europe,1
+Berlin,Land Berlin,Germany,Europe,23
+Nairobi,Nairobi Province,Kenya,Africa,919
+New Delhi,National Capital Territory of Delhi,India,Asia,20
+Copenhagen,Capital Region,Denmark,Europe,12
+Santiago,Santiago Metropolitan,Chile,South America,1
+Dublin,Leinster,Ireland,Europe,3
+Amsterdam,North Holland,Netherlands,Europe,1
+Delhi,National Capital Territory of Delhi,India,Asia,17
+Frankfurt am Main,Hesse,Germany,Europe,13
+Suleja,Niger State,Nigeria,Africa,4
+Niamey,Niamey,Niger,Africa,1
+Dresden,Saxony,Germany,Europe,1
+Aachen,North Rhine-Westphalia,Germany,Europe,1
+Khanna,Punjab,India,Asia,1
+Rotterdam,South Holland,Netherlands,Europe,1
+Port Harcourt,Rivers State,Nigeria,Africa,1
+Hyderabad,Telangana,India,Asia,2
+Doha,Baladiyat ad Dawhah,Qatar,Asia,8
+Accra,Greater Accra Region,Ghana,Africa,3
+East Malling,Kent,United Kingdom,Europe,1
+Ixelles-Elsene,Brussels Capital,Belgium,Europe,4
+Pathankot,Punjab,India,Asia,1
+Helsinki,Uusimaa,Finland,Europe,1
+Harare,Harare,Zimbabwe,Africa,51
+,,South Sudan,Africa,3
+Darling,Western Cape,South Africa,Africa,2
+,Maharashtra,India,Asia,1
+Coyoacán,Mexico City,Mexico,North America,1
+Panchkula,Haryana,India,Asia,1
+Gauteng,Gauteng,South Africa,Africa,1
+Batala,Punjab,India,Asia,4
+Lusaka,Lusaka Province,Zambia,Africa,2
+Turku,Southwest Finland,Finland,Europe,1
+Juelich,North Rhine-Westphalia,Germany,Europe,3
+Oss,North Brabant,Netherlands,Europe,1
+Dar es Salaam,Dar es Salaam Region,Tanzania,Africa,8
+Brilon,North Rhine-Westphalia,Germany,Europe,1
+Naaldwijk,South Holland,Netherlands,Europe,3
+Monrovia,Montserrado County,Liberia,Africa,1
+Voorhout,South Holland,Netherlands,Europe,1
+Hemer,North Rhine-Westphalia,Germany,Europe,2
+Jind,Haryana,India,Asia,1
+Mombasa,Mombasa District,Kenya,Africa,12
+Kano,Kano State,Nigeria,Africa,2
+Bathinda,Punjab,India,Asia,1
+Jhajjar,Haryana,India,Asia,1
+Kumbh,Punjab,India,Asia,2
+Barnala,Punjab,India,Asia,1
+Adamwal,Punjab,India,Asia,2
+Nabha,Punjab,India,Asia,1
+Agua De Oro,Cordoba,Argentina,South America,1
+Cairo,Cairo Governorate,Egypt,Africa,2
+Central,Central and Western District,Hong Kong,Asia,2
+Nakodar,Punjab,India,Asia,1
+Poznan,Greater Poland,Poland,Europe,1
+Banha,Qalyubia,Egypt,Africa,1
+Abidjan,Abidjan,Côte d'Ivoire,Africa,1
+Nyeri,Nyeri District,Kenya,Africa,5
+Hatfield,Gauteng,South Africa,Africa,1
+Gaborone,Gaborone,Botswana,Africa,2
+Port Sainte Rita,Agalega Islands,Mauritius,Africa,5
+Addis Ababa,Addis Ababa,Ethiopia,Africa,2
+Kapurthala Town,Punjab,India,Asia,1
+Kisumu,Kisumu,Kenya,Africa,1
+Kericho,Kericho District,Kenya,Africa,2
+Reitz,Orange Free State,South Africa,Africa,1
+Naivasha,Nakuru District,Kenya,Africa,3
+Greater Noida,Uttar Pradesh,India,Asia,1
+Kikuyu,Kiambu District,Kenya,Africa,2
+Koch Bihar,West Bengal,India,Asia,1
+Peddie,Eastern Cape,South Africa,Africa,12
+Porter Ranch,California,United States,North America,1
+Shinjuku,Tokyo,Japan,Asia,1
+Kiambu,Kiambu District,Kenya,Africa,2
+Eldoret,Uasin Gishu,Kenya,Africa,1
+Thika,Nairobi Province,Kenya,Africa,1
+Balbala,Djibouti,Djibouti,Africa,1
+Machakos,Machakos District,Kenya,Africa,4
+Nakuru,Nakuru District,Kenya,Africa,13
+Gatersleben,Saxony-Anhalt,Germany,Europe,2
+Frankfort,Orange Free State,South Africa,Africa,1
+Nunguni,Makueni District,Kenya,Africa,3
+Toyoda,Tokyo,Japan,Asia,4
+Ilala,Dar es Salaam Region,Tanzania,Africa,1
+Dourdan,Essonne,France,Europe,1
+Nārnaund,Haryana,India,Asia,1
+Paris,Paris,France,Europe,1
+Riyadh,Riyadh Region,Saudi Arabia,Asia,1
+Jeddah,Mecca Region,Saudi Arabia,Asia,9
+Hamburg,Free and Hanseatic City of Hamburg,Germany,Europe,1
+Stockholm,Stockholm County,Sweden,Europe,3
+Edinburgh,Edinburgh,United Kingdom,Europe,6
+Ghent,East Flanders Province,Belgium,Europe,3
+Navi Mumbai,Maharashtra,India,Asia,1
+Cebu City,Province of Cebu,Philippines,Asia,1
+Chelsea,Royal Kensington and Chelsea,United Kingdom,Europe,1
+Leuven,Flemish Brabant Province,Belgium,Europe,3
+Kampala,Kampala District,Uganda,Africa,5
+Makkah,Mecca Region,Saudi Arabia,Asia,2
+Prayagraj,Uttar Pradesh,India,Asia,1
+Rennes,Ille-et-Vilaine,France,Europe,2
+Monza,Monza Brianza,Italy,Europe,1
+Bialystok,Podlasie,Poland,Europe,1
+Luleå,Norrbotten County,Sweden,Europe,2
+Umeå,Västerbotten County,Sweden,Europe,1
+Limassol,Limassol District,Cyprus,Asia,1
+Guyancourt,Yvelines,France,Europe,1
+Épinay-sur-Seine,Seine-Saint-Denis,France,Europe,1
+Hemiksem,Antwerp Province,Belgium,Europe,1
+Essaouira,Essaouira Province,Morocco,Africa,1
+Runyenjes,Embu District,Kenya,Africa,1
+Soria,Soria,Spain,Europe,1
+Bungoma,Bungoma District,Kenya,Africa,5
+Rotselaar,Flemish Brabant Province,Belgium,Europe,1
+Kiserian,Kajiado District,Kenya,Africa,2
+Syracuse,Syracuse,Italy,Europe,1
+Lilongwe,Lilongwe District,Malawi,Africa,18
+Kapsabet,Nandi South District,Kenya,Africa,1
+Aizu-wakamatsu Shi,Fukushima-ken,Japan,Asia,4
+Karen,Nairobi Province,Kenya,Africa,1
+Joao Teves,São Lourenço dos Órgãos,Cabo Verde,Africa,1
+Mbabane,Hhohho,eSwatini,Africa,1
+Asa Khera,Haryana,India,Asia,1
+Patignies,Namur Province,Belgium,Europe,1
+Bafoussam,West Region,Cameroon,Africa,1
+Luanda,Busia District,Kenya,Africa,1
+Watamu,Kilifi District,Kenya,Africa,1
+Takwa,Central Region,Ghana,Africa,1
+Norton,Mashonaland West,Zimbabwe,Africa,1
+Mwea,Makueni District,Kenya,Africa,2
+Ajram,Punjab,India,Asia,1
+Wattignies-la-Victoire,North,France,Europe,1
+Nkubu,Meru,Kenya,Africa,8
+Sagana,Kirinyaga District,Kenya,Africa,1
+`Izbat Dhu al Fiqar,,Egypt,Africa,2
