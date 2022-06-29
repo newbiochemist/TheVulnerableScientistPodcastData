@@ -1,4 +1,4 @@
-# TheVulnerableScientistPodcastData
+# The VulnerableScientist Podcast Data
 This is data of the listenership of the the vulnerable scientist podcast
 
 It is clear that there are more listeners from USA and Kenya than any other country with US leading and heading to 1000 downloads.
